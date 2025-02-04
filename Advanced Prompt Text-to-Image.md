@@ -1,4 +1,4 @@
-#Tips Ampuh Membuat Prompt Text-to-Image untuk Hasil Terbaik
+# Tips Membuat Prompt Text-to-Image untuk Hasil Terbaik
 
 Pernahkah Anda merasa frustrasi saat mencoba menghasilkan gambar dari teks? Teknologi text-to-image memang menawan, tetapi tidak semua orang tahu cara memanfaatkan potensi penuhnya. Artikel ini akan membahas tips membuat prompt text-to-image yang efektif, lengkap dengan contoh baik yang sederhana maupun yang lebih kompleks dalam bahasa Inggris.
 
